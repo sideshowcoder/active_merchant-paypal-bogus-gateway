@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite time='0.000073' skipped='0' failures='0' errors='0' name="ActiveMerchant::Billing::PaypalBogusGatewayTest" assertions='3' tests='2'>
-  <testcase time='0.000018' name="test_redirect_url_for" assertions='1'>
-  </testcase>
-  <testcase time='0.000055' name="test_setup_authorization" assertions='2'>
-  </testcase>
-</testsuite>
