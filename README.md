@@ -26,7 +26,7 @@ Or install it yourself as:
 Load the extension in you tests which need it
 
 ```ruby
-require "active_merchant-paypal-bogus-gateway/ext/paypal\_bogus\_gateway"
+require "active_merchant-paypal-bogus-gateway/ext/paypal_bogus_gateway"
 
 ActiveMerchant::Billing::PaypalBogusGateway.new
 ```
