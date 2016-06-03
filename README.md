@@ -1,5 +1,7 @@
 # ActiveMerchant PaypalBogusGateway
 
+[![Build Status](https://travis-ci.org/sideshowcoder/active_merchant-paypal-bogus-gateway.svg?branch=master)](https://travis-ci.org/sideshowcoder/active_merchant-paypal-bogus-gateway)
+
 Gateway used for testing Paypal integration via ActiveMerchant,
 [extracted from old Pull Request](https://github.com/activemerchant/active_merchant/pull/424)
 
